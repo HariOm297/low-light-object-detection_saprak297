@@ -1,0 +1,27 @@
+.venv/
+venv/
+*.pyc
+data/
+*/__pycache__/*
+checkpoints/
+*.pth
+*.jpg
+venv/
+.idea/
+wandb/
+# datasets
+dataset/
+data/
+datasets/
+
+# heavy files
+*.zip
+*.tar
+*.csv
+*.h5
+*.pth
+*.pt
+.github
+venv/
+EnhancementNet/AI_SUMMIT_ENHANCEMENT/
+EnhancementNet/image_enhanced/
